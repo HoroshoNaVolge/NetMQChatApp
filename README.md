@@ -1,1 +1,1 @@
-# NetMQChatApp
+Приложение чата с NetMQ.
