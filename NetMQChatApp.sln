@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQChatApp", "NetMQChatApp.csproj", "{0951EF39-CC32-4A24-800B-8E20DA3DA3AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQChatApp", "NetMQChatApp.csproj", "{0951EF39-CC32-4A24-800B-8E20DA3DA3AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQChatLib", "..\NetMQChatLib\NetMQChatLib.csproj", "{25ED517F-6B6B-43B1-8411-9836D7C805D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQChatLib", "..\..\NetMQChatLib\NetMQChatLib.csproj", "{C9F2E0F0-DCEB-42AC-B55D-52534BFDE124}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0951EF39-CC32-4A24-800B-8E20DA3DA3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0951EF39-CC32-4A24-800B-8E20DA3DA3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0951EF39-CC32-4A24-800B-8E20DA3DA3AE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{25ED517F-6B6B-43B1-8411-9836D7C805D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{25ED517F-6B6B-43B1-8411-9836D7C805D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{25ED517F-6B6B-43B1-8411-9836D7C805D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{25ED517F-6B6B-43B1-8411-9836D7C805D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F2E0F0-DCEB-42AC-B55D-52534BFDE124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F2E0F0-DCEB-42AC-B55D-52534BFDE124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F2E0F0-DCEB-42AC-B55D-52534BFDE124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F2E0F0-DCEB-42AC-B55D-52534BFDE124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
